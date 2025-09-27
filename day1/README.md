@@ -185,7 +185,8 @@ Let’s synthesize the `good_mux` design using Yosys!
     ```
 
 <div align="center">
-  <img width="1729" height="670" alt="Screenshot 2025-09-26 203237" src="https://github.com/user-attachments/assets/f76ba797-57e5-4aad-b3c7-2af9ebbd4e5a" />
+<img width="1729" height="670" alt="ss2" src="https://github.com/user-attachments/assets/4273b1e3-5615-449b-a861-1ac1b929ab0c" />
+ 
 
 </div>
 
